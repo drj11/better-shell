@@ -19,3 +19,6 @@ The book that starts it all off for me is «[The KornShell Command and Programmi
 Yes it's ancient (1988, there is a newer edition that I haven't read), but `KornShell` kicked off the modern shell programming movement.
 People mostly use `bash` nowadays, but `KornShell` was a heavy influencer of the POSIX standard so a lot of stuff works in both (and indeed, other) shells.
 
+## REFERENCES
+
+http://supportweb.cs.bham.ac.uk/docs/tutorials/docsystem/build/tutorials/unixscripting/unixscripting.html (not bad)
