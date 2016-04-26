@@ -22,3 +22,4 @@ People mostly use `bash` nowadays, but `KornShell` was a heavy influencer of the
 ## REFERENCES
 
 http://supportweb.cs.bham.ac.uk/docs/tutorials/docsystem/build/tutorials/unixscripting/unixscripting.html (not bad)
+https://github.com/jlevy/the-art-of-command-line (this is good)
